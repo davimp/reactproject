@@ -1,183 +1,157 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Mais vistos",
+      "link": "https://www.youtube.com/watch?v=mI16HDWs3iQ",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Youtube playlist",
+        "url": "https://www.youtube.com/c/GiatroYoutube/videos?view=0&sort=p&shelf_id=5"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "The Beautiful House",
+          "url": "https://www.youtube.com/watch?v=Cm8nlkccSDs"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "O que é e Como se joga TTT?",
+          "url": "https://www.youtube.com/watch?v=qKVlrxsRN8E&t=3s"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Slender COOP - Jogo do lobo mal",
+          "url": "https://www.youtube.com/watch?v=PCQFNNUgu-0"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Open Hexagon GamePlay 01",
+          "url": "https://www.youtube.com/watch?v=hRnMxWevYHs"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "[RotMG] Dropping Tablet",
+          "url": "https://www.youtube.com/watch?v=OMshAamcB5s"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "[RotMG] Tutorial para experientes",
+          "url": "https://www.youtube.com/watch?v=JT0ahCbkaJ4"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "GMod:TTT - Como ser um bom Traidor!!! ",
+          "url": "https://www.youtube.com/watch?v=QlpXAMVxo7Y&t=145s"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "RotMG? Como que joga? - Knight",
+          "url": "https://www.youtube.com/watch?v=Q35z8oKXf2w"
         }        
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Especiais",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Youtube playlist",
+        "url": "https://www.youtube.com/playlist?list=PLqZfYiOlhkPeNDOFah5fh5xF6Wfrj-sKl"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Osu!",
+          "url": "https://www.youtube.com/watch?v=mI16HDWs3iQ&t=1s"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Vídeo Especial: Peguei a White Star =D (ft. Bllack)",
+          "url": "https://www.youtube.com/watch?v=9Tcs2zDx5Ds&list=PLqZfYiOlhkPeNDOFah5fh5xF6Wfrj-sKl&index=2&t=0s"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "RotMG is back online!",
+          "url": "https://www.youtube.com/watch?v=bNTmHt3_tBo&list=PLqZfYiOlhkPeNDOFah5fh5xF6Wfrj-sKl&index=4&t=0s"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
-        {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Bons tempos de RotMG ",
+          "url": "https://www.youtube.com/watch?v=W5yuSgH1jHo&list=PLqZfYiOlhkPeNDOFah5fh5xF6Wfrj-sKl&index=5&t=0s"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Giving the strength",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Youtube playlist",
+        "url": "https://www.youtube.com/watch?v=CCFmkD5HHDQ&list=PLqZfYiOlhkPe8ryA6a21qoUaBgtgtATCG"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "EP1",
+          "url": "https://www.youtube.com/watch?v=CCFmkD5HHDQ&list=PLqZfYiOlhkPe8ryA6a21qoUaBgtgtATCG"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "EP2",
+          "url": "https://www.youtube.com/watch?v=PNQOH7OpEoA&list=PLqZfYiOlhkPe8ryA6a21qoUaBgtgtATCG&index=2"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "EP3",
+          "url": "https://www.youtube.com/watch?v=owLwVMiT7ww&list=PLqZfYiOlhkPe8ryA6a21qoUaBgtgtATCG&index=3"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "EP4",
+          "url": "https://www.youtube.com/watch?v=YFNVh3mAARM&list=PLqZfYiOlhkPe8ryA6a21qoUaBgtgtATCG&index=4"
+        },
+        {
+          "titulo": "EP5",
+          "url": "https://www.youtube.com/watch?v=pI4Oxh7qPx4&list=PLqZfYiOlhkPe8ryA6a21qoUaBgtgtATCG&index=5"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Dust II",
       "cor": "orange",
       "videos": [
         {
           "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "url": "https://www.youtube.com/watch?v=x3S7an5I9Kc"
         },
         {
           "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "url": "https://www.youtube.com/watch?v=LlZcz0RkzcM"
         },
         {
           "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "url": "https://www.youtube.com/watch?v=Ha-jK2DBy_g"
         },
         {
           "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "url": "https://www.youtube.com/watch?v=RBYc1S_lzDo"
+        },
+        {
+          "titulo": "Feitiço do Tempo 2",
+          "url": "https://www.youtube.com/watch?v=RBYc1S_lzDo"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Ednaldo Pereira",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Ednaldo Pereira",
+        "url": "https://www.youtube.com/channel/UCLzb8VJaApoEZ6Bbmmq-oEA"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Ednaldo Pereira",
+          "url": "https://www.youtube.com/watch?v=VNeuAcLJEus"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Ednaldo Pereira",
+          "url": "https://www.youtube.com/watch?v=2lkBFpyo1Mc"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Ednaldo Pereira",
+          "url": "https://www.youtube.com/watch?v=5pn_wolTq0Y"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Ednaldo Pereira",
+          "url": "https://www.youtube.com/watch?v=maMVMjTYxwM"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
-        }
-      ]
-    },
-    {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
-      "videos": [
-        {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
-        },
-        {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
-        },
-        {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        },
-        {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-        },
-        {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Ednaldo Pereira",
+          "url": "https://www.youtube.com/watch?v=r6Zv6QPFG2s&t=147s"
         }
       ]
     }

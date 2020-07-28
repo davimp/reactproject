@@ -37,7 +37,6 @@ ContentAreaContainer.Category = styled.h1`
   padding: 25px;
   line-height: 1;
   border-radius: 4px;
-
   @media (max-width: 800px) {
     display: none;
     font-size: 18px;
@@ -58,7 +57,6 @@ ContentAreaContainer.Title = styled.h2`
   line-height: 1;
   margin-top: 0;
   margin-bottom: 32px;
-
   @media (max-width: 800px) {
     font-size: 32px;
     text-align: center;
@@ -76,7 +74,6 @@ export const BannerMainContainer = styled.section`
     height: auto;
     min-height: 50vh;
   }
-
   &:after,
   &:before {
     content: "";
@@ -87,13 +84,11 @@ export const BannerMainContainer = styled.section`
     margin: auto;
     height: 20%;
   }
-
   &:before {
     top: 0;
     height: 100%;
     background: rgba(0,0,0,0.5);
   }
-
   &:after {
     bottom: 0;
     background: linear-gradient(0deg, #141414 0%, transparent 100%);
