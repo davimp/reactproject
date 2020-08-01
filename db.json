@@ -1,0 +1,10 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "nome": "Mais vistos",
+            "descricao": "Categoria dos videos mais vistos",
+            "cor": "#cbd1ff"
+        }
+    ]
+}
