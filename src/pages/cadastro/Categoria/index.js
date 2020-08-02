@@ -23,23 +23,21 @@ function CadastroCategoria() {
 
     function handlerChange(info){
         setValue(info.target.getAttribute('name'), 
-        info.target.value)
+        info.target.value,);
     }
 
     useEffect(() => {
-        if(window.location.href.includes('localhost')) {
-          const URL = 'http://localhost:8080/categorias'; 
-          fetch(URL)
-           .then(async (respostaDoServer) =>{
-            if(respostaDoServer.ok) {
-              const resposta = await respostaDoServer.json();
-              setCategoria(resposta);
-              return; 
-            }
-            throw new Error('Não foi possível pegar os dados');
-           })
-        }    
-      }, []);
+        const URL = window.location.hostname.includes('localhost')
+          ? 'http://localhost:8080/categorias'
+          : 'https://giatroflix.herokuapp.com/categorias';
+        fetch(URL)
+          .then(async (respostaDoServidor) => {
+            const resposta = await respostaDoServidor.json();
+            setCategoria([
+              ...resposta,
+            ]);
+          });
+    }, []);
     
 
     return (
